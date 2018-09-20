@@ -19,7 +19,8 @@ module.exports = {
     },
     css: [
         {src: 'node_modules/bootstrap/dist/css/bootstrap.css'},
-        {src: 'static/css/grayscale.min.css', lang: 'css'},
+        {src: '~/assets/css/grayscale.min.css'},
+        {src: '~/assets/css/fontawesome-free/css/all.min.css'},
     ],
     plugins: [
         '~plugins/bootstrap.js'
@@ -32,7 +33,7 @@ module.exports = {
     ** Build configuration
     */
     build: {
-        vendor: ['jquery', 'bootstrap/dist/js/bootstrap.bundle', '~/static/js/jquery.easing.min.js', '~/static/js/grayscale.min.js'],
+        vendor: ['jquery', 'bootstrap/dist/js/bootstrap.bundle', '~/assets/js/jquery.easing.min.js', '~/assets/js/grayscale.min.js'],
         plugins: [
             // set shortcuts as global for bootstrap
             new webpack.ProvidePlugin({

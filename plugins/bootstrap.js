@@ -1,6 +1,6 @@
 // Include bootstrap JS only
 if (process.browser) {
     require('bootstrap/dist/js/bootstrap.bundle');
-    require('~/static/js/jquery.easing.min.js');
-    require('~/static/js/grayscale.min.js');
+    require('~/assets/js/jquery.easing.min.js');
+    require('~/assets/js/grayscale.min.js');
 }
