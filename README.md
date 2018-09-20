@@ -19,6 +19,11 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 After installation, run `npm install` to download the required packages and start development as usual using `npm run dev`.
+Since this template is a onepager, the whole html is saved to `default.vue` in the `layouts` folder.
+
+**Important:**
+To view the content of other pages you have to include `<nuxt />` at some point in `default.vue` in the `layouts` folder.
+
 ## About  
   
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.  
