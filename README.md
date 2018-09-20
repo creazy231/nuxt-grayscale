@@ -1,7 +1,16 @@
-# Grayscale
 
-This starter template was originally created by [Creative Tim](https://www.creative-tim.com/).
-I simply modified this awesome template to be used with [nuxt.js](https://nuxtjs.org/).
+# Grayscale - Nuxt.js
+  
+Grayscale is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Especially this template has been modified to be used with [Nuxt.js](https://nuxtjs.org/).
+
+[Visite original repo](https://github.com/BlackrockDigital/startbootstrap-grayscale)
+  
+## Preview  
+  
+[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)  
+  
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
 ## Download and Installation
 To begin using this template, choose one of the following options to get started:  
